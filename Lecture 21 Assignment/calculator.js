@@ -30,6 +30,6 @@ else if (userWant === "divide") {
 else if (userWant === "exponent") {
     console.log(age1 ** age2);
 }
-else (console.log("Sorry Man"));
+else (console.log("Sorry"));
 
 
