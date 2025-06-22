@@ -33,7 +33,3 @@ else if (userWant === "exponent") {
 else (console.log("Sorry Man"));
 
 
-let str="123";
-console.log(typeof(str));
-let strtonumber=Number(str);
-console.log(strtonumber);
