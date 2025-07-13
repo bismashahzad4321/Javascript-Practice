@@ -35,3 +35,7 @@ getPassword.addEventListener("input", ()=>{
     getValidPassword.textContent="PassWord Must Have 1 UpperCase, 1 Lowercase, 1 Number and 1 Special Character"
    }
 });
+getForm.addEventListener("submit", (event) => {
+    event.preventDefault();
+    alert("Form Submit Successfully");
+});
